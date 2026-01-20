@@ -1,2 +1,3 @@
 # Traffic Analyzer
-Python-based network traffic analyzer. IMPORTANT: only use this if you are testing on your own network or if you have explicit permission to do so.
+
+Ethical Disclaimer: This tool is for EDUCATIONAL and AUTHORIZED USE ONLY. Unauthorized packet capturing is illegal.
